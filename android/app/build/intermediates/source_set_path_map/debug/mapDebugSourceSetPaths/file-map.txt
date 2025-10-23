@@ -1,0 +1,36 @@
+com.gallo.preventivi.app-jetified-profileinstaller-1.3.1-0 C:\Users\lucag\.gradle\caches\8.12\transforms\01fa9ac07ed465b33a8e955a99078ed8\transformed\jetified-profileinstaller-1.3.1\res
+com.gallo.preventivi.app-lifecycle-livedata-core-2.7.0-1 C:\Users\lucag\.gradle\caches\8.12\transforms\053fbe7de86ac2fdb46c809cb18eac9a\transformed\lifecycle-livedata-core-2.7.0\res
+com.gallo.preventivi.app-jetified-tracing-1.2.0-2 C:\Users\lucag\.gradle\caches\8.12\transforms\1f7bbcb2a605950139d04f0f3eb1f44e\transformed\jetified-tracing-1.2.0\res
+com.gallo.preventivi.app-fragment-1.7.1-3 C:\Users\lucag\.gradle\caches\8.12\transforms\298a13a32416efe3e296f3ed669647ec\transformed\fragment-1.7.1\res
+com.gallo.preventivi.app-jetified-firebase-common-22.0.0-4 C:\Users\lucag\.gradle\caches\8.12\transforms\2b4aa7a8ffefb01eaf9097f3cc365780\transformed\jetified-firebase-common-22.0.0\res
+com.gallo.preventivi.app-jetified-core-1.0.0-5 C:\Users\lucag\.gradle\caches\8.12\transforms\511e54a3b70b2c4bf39134f5a30cca65\transformed\jetified-core-1.0.0\res
+com.gallo.preventivi.app-jetified-lifecycle-process-2.7.0-6 C:\Users\lucag\.gradle\caches\8.12\transforms\5c4865f8ecd360b7ae253f43abc98c4d\transformed\jetified-lifecycle-process-2.7.0\res
+com.gallo.preventivi.app-jetified-play-services-basement-18.3.0-7 C:\Users\lucag\.gradle\caches\8.12\transforms\6700418c54045dac29626552fd4fd340\transformed\jetified-play-services-basement-18.3.0\res
+com.gallo.preventivi.app-jetified-activity-1.8.1-8 C:\Users\lucag\.gradle\caches\8.12\transforms\75f73e1a807f814e1579f811ea952a69\transformed\jetified-activity-1.8.1\res
+com.gallo.preventivi.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-9 C:\Users\lucag\.gradle\caches\8.12\transforms\82907107be64d474611d411d2895a47d\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.gallo.preventivi.app-jetified-datastore-core-release-10 C:\Users\lucag\.gradle\caches\8.12\transforms\8b951da8fb5d8688de3e3508956fe4bb\transformed\jetified-datastore-core-release\res
+com.gallo.preventivi.app-jetified-window-1.2.0-11 C:\Users\lucag\.gradle\caches\8.12\transforms\9f2a80af8eafbafd6bc21ceb2d160085\transformed\jetified-window-1.2.0\res
+com.gallo.preventivi.app-jetified-core-ktx-1.13.1-12 C:\Users\lucag\.gradle\caches\8.12\transforms\a716b33a27ccb754ba10690ff973c1c4\transformed\jetified-core-ktx-1.13.1\res
+com.gallo.preventivi.app-jetified-savedstate-1.2.1-13 C:\Users\lucag\.gradle\caches\8.12\transforms\a8684793435c8c7a9fdf2fddaa0ca24f\transformed\jetified-savedstate-1.2.1\res
+com.gallo.preventivi.app-lifecycle-viewmodel-2.7.0-14 C:\Users\lucag\.gradle\caches\8.12\transforms\af0d5b842374e69aa34295a86a775e9a\transformed\lifecycle-viewmodel-2.7.0\res
+com.gallo.preventivi.app-lifecycle-livedata-2.7.0-15 C:\Users\lucag\.gradle\caches\8.12\transforms\afda05412192c9f363821094c73f8417\transformed\lifecycle-livedata-2.7.0\res
+com.gallo.preventivi.app-jetified-window-java-1.2.0-16 C:\Users\lucag\.gradle\caches\8.12\transforms\b45c064a0f0accedf41039e62067f28b\transformed\jetified-window-java-1.2.0\res
+com.gallo.preventivi.app-jetified-startup-runtime-1.1.1-17 C:\Users\lucag\.gradle\caches\8.12\transforms\b55bab7cd51d5542d23e4d4e1c6cecf5\transformed\jetified-startup-runtime-1.1.1\res
+com.gallo.preventivi.app-jetified-play-services-base-18.1.0-18 C:\Users\lucag\.gradle\caches\8.12\transforms\b97d28fef4196a0326fe7babd46c98f4\transformed\jetified-play-services-base-18.1.0\res
+com.gallo.preventivi.app-jetified-annotation-experimental-1.4.0-19 C:\Users\lucag\.gradle\caches\8.12\transforms\c8e08330349a7ee364f078e05874614a\transformed\jetified-annotation-experimental-1.4.0\res
+com.gallo.preventivi.app-lifecycle-runtime-2.7.0-20 C:\Users\lucag\.gradle\caches\8.12\transforms\d29c20095636e7998268f01ad1d6b1ef\transformed\lifecycle-runtime-2.7.0\res
+com.gallo.preventivi.app-jetified-lifecycle-livedata-core-ktx-2.7.0-21 C:\Users\lucag\.gradle\caches\8.12\transforms\d77c838733fceddb3eca669bbc415720\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.gallo.preventivi.app-core-1.13.1-22 C:\Users\lucag\.gradle\caches\8.12\transforms\de81c53873aabcb1451a377de234a79a\transformed\core-1.13.1\res
+com.gallo.preventivi.app-jetified-datastore-preferences-release-23 C:\Users\lucag\.gradle\caches\8.12\transforms\e55f7f1f4394b301795e0d17a359492c\transformed\jetified-datastore-preferences-release\res
+com.gallo.preventivi.app-jetified-datastore-release-24 C:\Users\lucag\.gradle\caches\8.12\transforms\ea2e33263381e2b4e6857a66cd611fb0\transformed\jetified-datastore-release\res
+com.gallo.preventivi.app-core-runtime-2.2.0-25 C:\Users\lucag\.gradle\caches\8.12\transforms\ea7c5dad8f33330e8c807a0459ca5051\transformed\core-runtime-2.2.0\res
+com.gallo.preventivi.app-debug-26 C:\Users\lucag\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-6.0.0\android\build\intermediates\packaged_res\debug\packageDebugResources
+com.gallo.preventivi.app-debug-27 C:\Users\lucag\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-4.0.0\android\build\intermediates\packaged_res\debug\packageDebugResources
+com.gallo.preventivi.app-pngs-28 C:\Users\lucag\OneDrive\Desktop\progetti app\preventivi\android\app\build\generated\res\pngs\debug
+com.gallo.preventivi.app-res-29 C:\Users\lucag\OneDrive\Desktop\progetti app\preventivi\android\app\build\generated\res\processDebugGoogleServices
+com.gallo.preventivi.app-resValues-30 C:\Users\lucag\OneDrive\Desktop\progetti app\preventivi\android\app\build\generated\res\resValues\debug
+com.gallo.preventivi.app-packageDebugResources-31 C:\Users\lucag\OneDrive\Desktop\progetti app\preventivi\android\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.gallo.preventivi.app-packageDebugResources-32 C:\Users\lucag\OneDrive\Desktop\progetti app\preventivi\android\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.gallo.preventivi.app-debug-33 C:\Users\lucag\OneDrive\Desktop\progetti app\preventivi\android\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.gallo.preventivi.app-debug-34 C:\Users\lucag\OneDrive\Desktop\progetti app\preventivi\android\app\src\debug\res
+com.gallo.preventivi.app-main-35 C:\Users\lucag\OneDrive\Desktop\progetti app\preventivi\android\app\src\main\res

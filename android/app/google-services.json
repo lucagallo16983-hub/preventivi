@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "318686189661",
+    "project_id": "preventivi-dbee5",
+    "storage_bucket": "preventivi-dbee5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318686189661:android:132195bc21f3f7c07c55b4",
+        "android_client_info": {
+          "package_name": "com.gallo.preventivi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2OlYjUo0px5A9SqZNravPqYBW1XIXWrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
