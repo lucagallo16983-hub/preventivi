@@ -34,7 +34,16 @@ class HomeScreen extends StatelessWidget {
                   ),
                 ),
                 const SizedBox(height: 12),
-                // <<< NUOVO BOTTONE
+                SizedBox(
+                  width: double.infinity,
+                  child: ElevatedButton.icon(
+                    onPressed: () =>
+                        Navigator.pushNamed(context, '/lista_lavorazioni'),
+                    icon: const Icon(Icons.format_list_bulleted),
+                    label: const Text('Lista lavorazioni'),
+                  ),
+                ),
+                const SizedBox(height: 12),
                 SizedBox(
                   width: double.infinity,
                   child: ElevatedButton.icon(

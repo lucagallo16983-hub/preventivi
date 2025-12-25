@@ -5,6 +5,7 @@ import 'screens/home_screen.dart';
 import 'screens/lavorazioni_screen.dart';
 import 'screens/crea_preventivo_screen.dart';
 import 'screens/preventivi_salvati_screen.dart';
+import 'screens/lista_lavorazioni_screen.dart'; // <-- AGGIUNTO
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -24,7 +25,9 @@ class PreventiviApp extends StatelessWidget {
       routes: {
         '/lavorazioni': (_) => const InserisciModificaLavorazioniScreen(),
         '/crea': (_) => const CreaPreventivoScreen(),
-        '/salvati': (_) => const PreventiviSalvatiScreen(), // <— aggiunta
+        '/salvati': (_) => const PreventiviSalvatiScreen(),
+        '/lista_lavorazioni': (_) =>
+            const ListaLavorazioniScreen(), // <-- AGGIUNTA
       },
     );
   }
