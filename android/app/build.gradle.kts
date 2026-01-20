@@ -1,16 +1,23 @@
+import java.util.Properties
+import java.io.FileInputStream
+
 plugins {
     id("com.android.application")
     id("kotlin-android")
-    id("com.google.gms.google-services")    // Firebase
-    // The Flutter Gradle Plugin must be applied after the Android and Kotlin Gradle plugins.
+    id("com.google.gms.google-services")
     id("dev.flutter.flutter-gradle-plugin")
+}
+
+val keystoreProperties = Properties()
+val keystorePropertiesFile = rootProject.file("key.properties")
+if (keystorePropertiesFile.exists()) {
+    keystoreProperties.load(FileInputStream(keystorePropertiesFile))
 }
 
 android {
     namespace = "com.gallo.preventivi"
     compileSdk = flutter.compileSdkVersion
 
-    // NDK richiesto dai plugin Firebase usati
     ndkVersion = "27.0.12077973"
 
     compileOptions {
@@ -23,15 +30,24 @@ android {
 
     defaultConfig {
         applicationId = "com.gallo.preventivi"
-        minSdk = 23                     // obbligatorio per cloud_firestore 6.x
+        minSdk = 23
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode
         versionName = flutter.versionName
     }
 
+    signingConfigs {
+        create("release") {
+            keyAlias = keystoreProperties["keyAlias"] as String
+            keyPassword = keystoreProperties["keyPassword"] as String
+            storeFile = file(keystoreProperties["storeFile"] as String)
+            storePassword = keystoreProperties["storePassword"] as String
+        }
+    }
+
     buildTypes {
-        release {
-            signingConfig = signingConfigs.getByName("debug") // ok per debug
+        getByName("release") {
+            signingConfig = signingConfigs.getByName("release")
         }
     }
 }
